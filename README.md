@@ -6,7 +6,7 @@
 
 ## shell
 
-## redirect & pipe
+## rewrite & pipe
 
 ## find & compression
 
