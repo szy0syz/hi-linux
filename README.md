@@ -8,7 +8,7 @@
 
 ## rewrite & pipe
 
-## find & compression
+## find & compress
 
 ## Ubuntu
 
